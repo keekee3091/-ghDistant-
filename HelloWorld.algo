@@ -2,7 +2,7 @@ Algo HelloWorld {
   fonction principale {
     // Création de la fenêtre
     Créer une fenetre de titre HELLO_WORLD
-    Mettre la dimension à 300, 300  // Changement de taille de la fenêtre
+    Mettre la dimension à 300, 300  // Taille de la fenêtre déjà modifiée sur master
     Configurer la fenetre sur ‘exitOnClose’
 
     // Création du label de texte
@@ -10,7 +10,7 @@ Algo HelloWorld {
     Mettre la couleur jaune sur le label  // Conserver le texte jaune
 
     // Couleur de fond de la fenêtre
-    Mettre la couleur verte sur le fond  // Conserver la couleur de fond en vert du commit cherry-pické
+    Mettre la couleur verte sur le fond  // Conserver la correction apportée par fix_XXX
 
     // Finalisation
     Ajouter le label sur la fenêtre
